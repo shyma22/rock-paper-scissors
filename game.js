@@ -49,7 +49,7 @@ function playGame(h,c){
 }
 let humanPoint=0;
 let computerPoint=0;
-while(humanPoint<=4 && computerPoint<=4){
+while(humanPoint!=5 && computerPoint!=5){
 const human=getHumanChoice();
 const comp=getComputerChoice();
 playGame(human,comp);
