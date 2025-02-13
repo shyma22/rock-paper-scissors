@@ -1,0 +1,57 @@
+body{
+    margin: 0;
+    font-family:monospace;
+    text-align:center;
+   
+}
+.pic{
+    display: flex;
+   
+}
+#rock{
+    width: 270px;
+    height:350px;
+    margin-right: 90px;
+   
+}
+#paper{
+    width: 200px;
+    height:330px;
+    margin-right: 90px;
+   
+}
+#scissors{
+    width: 300px;
+    height:420px;
+    
+}
+h1{
+    text-align: center;
+    font-size: 2rem;
+    color: rgb(0, 0, 0);
+}
+#score{
+   
+    background-color: rgb(92, 238, 35);
+    height: 30px;
+    min-width: 600px;
+    padding-top: 20px;
+
+    font-size: 1rem;
+    border-radius: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding-bottom: 40px;
+    box-shadow: 10px 7px 7px lightgray;
+
+}
+#commentary{
+    font-size: 1.5rem;
+    color: darkgreen;
+}
+
+
+
+
+
+
