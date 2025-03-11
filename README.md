@@ -10,8 +10,8 @@ Fight for glory! The winner of each round is determined by the rules:
 ✂️ Scissors beats 📄 Paper
 📄 Paper beats 🪨 Rock
 Score tally: The score will be shown at the top, updating after each round.
-First to 5 wins! When either the computer or you hit 5 points, the game ends with a winner and a victory dance! 🕺💃
-You can always reset the game to play again. Are you ready to become the Rock, Paper, Scissors Master? 🏅
+First to 5 wins! When either the computer or you hit 5 points, the game ends with a winner!🕺💃
+Are you ready to become the Rock, Paper, Scissors Master? 🏅
 
 🌟 Features:
 Simple and fun UI created with HTML and CSS.
