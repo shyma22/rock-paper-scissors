@@ -18,4 +18,4 @@ Simple and fun UI created with HTML and CSS.
 Smooth game logic powered by JavaScript.
 Score counter that tracks your journey to victory (or defeat).
 Game ends when either the player or computer scores 5 points.
-To play click: https://shyma22.github.io/rock-paper-scissors/
+To view: https://shyma22.github.io/rock-paper-scissors/
